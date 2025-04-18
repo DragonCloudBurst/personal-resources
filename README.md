@@ -7,12 +7,18 @@ list of various resources for reference.
 - [spirit city: lo-fi sessions](https://store.steampowered.com/app/2113850/Spirit_City_Lofi_Sessions/): amazing gamified productivity tool. task tracking, pomodoro timer, journal, ambient sound, and music player all in one. includes character customization and pets. high value for price.
 
 ## cli tools
-
+- [irssi](https://github.com/irssi/irssi): terminal IRC client.
+- [cht.sh](https://github.com/chubin/cheat.sh): terminal based cheat-sheet for various computery topics.
+- [wtftutil](https://github.com/wtfutil/wtf): personal info dashboard in the terminal. fully customizable with various widgets.
+- [jrnl](https://github.com/jrnl-org/jrnl): command-line journaling tool for quick notes. has quickly become a favorite of mine.
+- [neofetch](https://github.com/dylanaraps/neofetch): famous tool that simply fetches system information and returns it in a nice format.
+- [halp](https://github.com/orhun/halp): simple cli command that makes it easier to get the version and help pages for other cli tools.
 
 ## development
 - [notepad++](https://notepad-plus-plus.org/): lightweight text editor for windows.
 
 ### webdev
+
 
 #### hosting
 - [nekoweb](https://nekoweb.org/): simple, free indie web hosting for static sites.
