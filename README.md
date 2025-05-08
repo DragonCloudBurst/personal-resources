@@ -16,6 +16,7 @@ list of various resources for reference.
 
 ## development
 - [notepad++](https://notepad-plus-plus.org/): lightweight text editor for windows.
+- [featherpad](https://github.com/tsujan/FeatherPad): lightweight text editor for linux.
 
 ### webdev
 
@@ -73,3 +74,5 @@ list of various resources for reference.
 
 ## other
 - [winutil](https://github.com/ChrisTitusTech/winutil): tool for debloating and tweaking windows.
+- [bylk crap uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller): exactly what it sounds like, honestly. helps clear up storage space from leftover program files, as well as let you uninstall apps directly.
+- 
